@@ -5,7 +5,7 @@
       {
         "input": "country",
         "col": "type",
-        "string": "\"United States\"",
+        "string": "United States",
         "num": 0,
         "operator": "contains"
       }
